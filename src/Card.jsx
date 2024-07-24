@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Header() {
+function Card() {
   return (
     <div>
-      header
+      new card added
     </div>
   )
 }
 
-export default Header;
+export default Card
