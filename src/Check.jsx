@@ -1,8 +1,12 @@
 import React from 'react'
 
 const Check = () => {
-  return (
+  return (<>
     <div>Check</div>
+    <h1> Riaz </h1>
+  
+  </>
+  
   )
 }
 
